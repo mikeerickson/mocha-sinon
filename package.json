@@ -1,0 +1,22 @@
+{
+  "name": "mocha-sinon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha spec --reporter mocha-unfunk-reporter"
+  },
+  "keywords": [],
+  "author": "Mike Erickson <codedungeon@gmail.com> (https://github.com/mikeerickson)",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "3.5.0",
+    "gulp-messenger": "0.17.0",
+    "localStorage": "1.0.3",
+    "mocha": "2.5.3",
+    "mocha-unfunk-reporter": "0.4.0",
+    "sinon": "1.17.4",
+    "store.js": "1.0.4",
+    "store2": "2.3.2"
+  }
+}
