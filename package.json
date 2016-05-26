@@ -16,7 +16,6 @@
     "mocha": "2.5.3",
     "mocha-unfunk-reporter": "0.4.0",
     "sinon": "1.17.4",
-    "store.js": "1.0.4",
     "store2": "2.3.2"
   }
 }
